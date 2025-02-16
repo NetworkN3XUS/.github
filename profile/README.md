@@ -18,7 +18,7 @@ We believe in **Open-Source Intelligence (OSINT)** and security awareness, makin
 ## 🌐 Join the Nexus  
 We are always looking for passionate contributors. Whether you're into **ethical hacking, security research, or OSINT**, there’s a place for you here.  
 
-- **🔗 [GitHub Discussions](#)** – Join the conversation  
+- **🔗 [GitHub Discussions](.github/discussions/1)** – Join the conversation  
 - **📧 Contact Us:** [swarup93@proton.me](mailto:swarup93@proton.me)  
 - **🚀 Contribute:** Fork this repo and start your duty!  
 
