@@ -19,8 +19,8 @@ We believe in **Open-Source Intelligence (OSINT)** and security awareness, makin
 We are always looking for passionate contributors. Whether you're into **ethical hacking, security research, or OSINT**, there’s a place for you here.  
 
 - **🔗 [GitHub Discussions](#)** – Join the conversation  
-- **📧 Contact Us:** [Your email or GitHub Issues](#)  
-- **🚀 Contribute:** Fork this repo and start hacking!  
+- **📧 Contact Us:** [swarup93@proton.me](#)  
+- **🚀 Contribute:** Fork this repo and start your duty!  
 
 ---
 
