@@ -1,4 +1,4 @@
-This organization is maintained by Swarup Dhavan (swarup-93).
+This organization is maintained by Swarup Dhavan (swarup-93) & Tejas Karekar (TejasKarekar).
                        
 # NetworkN3XUS  
 **A collective of cybersecurity enthusiasts, ethical hackers, and researchers dedicated to exploring the dark web, penetration testing, and digital forensics.**  
