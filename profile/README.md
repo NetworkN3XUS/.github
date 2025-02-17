@@ -19,8 +19,7 @@ We believe in **Open-Source Intelligence (OSINT)** and security awareness, makin
 We are always looking for passionate contributors. Whether you're into **ethical hacking, security research, or OSINT**, there’s a place for you here.  
 
 - **🔗 [Discussions](https://github.com/NetworkN3XUS/.github/discussions/1)** – Join the conversation  
-- **📧 Contact Us:** [swarup93@proton.me](mailto:swarup93@proton.me)
-Phantom32364@proton.me
+- **📧 Contact Us:** [swarup93@proton.me](mailto:swarup93@proton.me) or [Phantom32364@proton.me](mailto:Phantom32364@proton.me)
 - **🚀 Contribute:** Fork this repo and start your duty!  
 
 ---
